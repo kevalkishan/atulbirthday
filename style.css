@@ -1,13 +1,9 @@
 body{
-    background-color: aqua;
-    background-image: url("https://previews.123rf.com/images/sputanski/sputanski1505/sputanski150500029/40049510-happy-birthday-background-poster-with-balloons-and-flags-layered.jpg");
+    /* background-color: aqua; */
+    /* background-image: url("https://previews.123rf.com/images/sputanski/sputanski1505/sputanski150500029/40049510-happy-birthday-background-poster-with-balloons-and-flags-layered.jpg"); */
 
 }
-top{
-    background-color: aqua;
-}
-bottom{
-    background-image: url("https://previews.123rf.com/images/sputanski/sputanski1505/sputanski150500029/40049510-happy-birthday-background-poster-with-balloons-and-flags-layered.jpg");
-    background-color: aqua;
-
+.headerimage{
+height: 100px;
+width: 100px;
 }
