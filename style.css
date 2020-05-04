@@ -3,7 +3,18 @@ body{
     /* background-image: url("https://previews.123rf.com/images/sputanski/sputanski1505/sputanski150500029/40049510-happy-birthday-background-poster-with-balloons-and-flags-layered.jpg"); */
 
 }
+.carousel-item {
+    height: 500px;
+    /* width: 400px; */
+}
+.c-image{
+    /* height: 100px; */
+    /* /* width: 100px; */
+}
 .headerimage{
 height: 100px;
 width: 100px;
+}
+body{
+    background-color: #ffacb7;
 }
